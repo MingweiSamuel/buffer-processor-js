@@ -1,0 +1,25 @@
+{
+  "name": "sbp",
+  "version": "0.0.0",
+  "description": "Simple Buffer Processor",
+  "main": "buffer-processor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MingweiSamuel/sbp.git"
+  },
+  "keywords": [
+    "buffer",
+    "processor"
+  ],
+  "author": "Mingwei Samuel",
+  "license": "GPLv2",
+  "bugs": {
+    "url": "https://github.com/MingweiSamuel/sbp/issues"
+  },
+  "dependencies": {
+    "buffer-offset": "^0.1.1"
+  }
+}
